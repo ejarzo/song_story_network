@@ -1,0 +1,431 @@
+{
+  "nodes": [
+    {"id": "Coloring Book", "group": 1},
+    {"id": "Same Drugs", "group": 1},
+    {"id": "Adulthood", "group": 1},
+    {"id": "Childhood", "group": 1},
+    {"id": "Young Father", "group": 1},
+    {"id": "Peter Pan", "group": 1},
+    {"id": "Loss", "group": 1},
+    {"id": "Youth", "group": 1},
+    {"id": "Nostalgia", "group": 1},
+    {"id": "Puppets", "group": 1},
+    {"id": "Summer Friends", "group": 4},
+    {"id": "Song about Friendship", "group": 1},
+    {"id": "Music Video", "group": 1},
+    {"id": "My Brother's Keeper", "group": 1},
+    {"id": "Shared Experiences", "group": 1},
+    {"id": "Divergent Paths", "group": 1},
+    {"id": "Smoke Break", "group": 4},
+    {"id": "Chicago Rap", "group": 1},
+    {"id": "New Orleans Movement", "group": 1},
+    {"id": "R&B", "group": 1},
+    {"id": "Hip-Hop", "group": 1},
+    {"id": "African American Heritige", "group": 1},
+    {"id": "Chicago", "group": 5},
+    {"id": "Present-Day Chicago", "group": 5},
+    {"id": "Poverty Porn", "group": 1},
+    {"id": "Freedom", "group": 1},
+    {"id": "Activism", "group": 1},
+    {"id": "Value of Music", "group": 1},
+    {"id": "Civil Rights Movement", "group": 1},
+    {"id": "Martin Luther King Jr", "group": 3},
+    {"id": "Great Grandmother", "group": 3},
+    {"id": "Grandmother", "group": 3},
+    {"id": "Father", "group": 3},
+    {"id": "79th Street", "group": 1},
+    {"id": "Curse", "group": 7},
+    {"id": "Religion", "group": 7},
+    {"id": "Rahim Emmanuel", "group": 3},
+    {"id": "Barack Obama", "group": 3},
+    {"id": "Gospel Music", "group": 7},
+    {"id": "Prismizer Effect", "group": 7},
+    {"id": "Inspiration", "group": 1},
+    {"id": "Dave Chappelle", "group": 3},
+    {"id": "Kanye West", "group": 3},
+    {"id": "Jay-Z", "group": 3},
+    {"id": "Personal Life Experiences", "group": 1},
+    {"id": "Derivative Works", "group": 1},
+    {"id": "Drugs", "group": 1},
+    {"id": "Average Joes", "group": 1},
+    {"id": "Misterwives", "group": 3},
+    {"id": "Shawn Mendes", "group": 3},
+    {"id": "Regina Spektor", "group": 3},
+    {"id": "Versions", "group": 1},
+    {"id": "Like 20 Versions", "group": 1},
+    {"id": "Renting a whole studio", "group": 1},
+    {"id": "Los Angeles", "group": 5},
+    {"id": "Kirk Franklin", "group": 3},
+    {"id": "Feels", "group": 6},
+    {"id": "Sensitivity and Emotion", "group": 6},
+    {"id": "10 Day Suspension", "group": 4},
+    {"id": "The College Dropout", "group": 4},
+    {"id": "Daughter", "group": 3},
+    {"id": "Community Feedback", "group": 1},
+    {"id": "Audience", "group": 1},
+    {"id": "Attitude", "group": 1},
+    {"id": "Faith", "group": 7},
+    {"id": "God", "group": 7},
+    {"id": "No Smoke, No Foolishness", "group": 1},
+    {"id": "Love", "group": 6},
+    {"id": "Christian", "group": 7},
+    {"id": "Non Christian", "group": 1},
+    {"id": "Differing Reactions", "group": 1},
+    {"id": "Hip-Hop's Religious Revival", "group": 1},
+    {"id": "Emptiness", "group": 6},
+    {"id": "Happy", "group": 6},
+    {"id": "Sad", "group": 6},
+    {"id": "Cry", "group": 6},
+    {"id": "Chills", "group": 6},
+    {"id": "Bittersweet", "group": 6},
+    {"id": "Gospel Vibe", "group": 7},
+    {"id": "Chicago Children's Choir", "group": 2},
+    {"id": "Mitchell Owens", "group": 3},
+    {"id": "Josephine Lee", "group": 3},
+    {"id": "Macie Stewart", "group": 3},
+    {"id": "Marrow", "group": 2},
+    {"id": "Liam Cunninham", "group": 3},
+    {"id": "OHMME", "group": 2},
+    {"id": "Sima Cunninham", "group": 3},
+    {"id": "Kids These Days", "group": 2},
+    {"id": "SaveMoney", "group": 2},
+    {"id": "Vic Mensa", "group": 3},
+    {"id": "Prince Tribute", "group": 4},
+    {"id": "The Social Experiment", "group": 2},
+    {"id": "Peter Cottontale", "group": 3},
+    {"id": "Nico Segal", "group": 3},
+    {"id": "Nate Fox", "group": 3},
+    {"id": "Chance the Rapper", "group": 3},
+    {"id": "Eryn Allen Kane", "group": 3},
+    {"id": "Francis Starlite", "group": 3},
+    {"id": "Surf", "group": 4},
+    {"id": "LIDO", "group": 3},
+    {"id": "Strings", "group": 1},
+    {"id": "Vocals", "group": 1},
+    {"id": "Meena Cho", "group": 3},
+    {"id": "Erik Pidulski", "group": 3},
+    {"id": "Bridget Andes", "group": 3}
+  ],
+  "links": [
+    {"source": "Coloring Book", "target": "Same Drugs", "value": 1},
+    
+    {"source": "Same Drugs", "target": "Adulthood", "value": 1},
+    {"source": "Same Drugs", "target": "Childhood", "value": 1},
+    
+    {"source": "Adulthood", "target": "Childhood", "value": 1},
+    {"source": "Adulthood", "target": "Peter Pan", "value": 1},
+    {"source": "Adulthood", "target": "Shared Experiences", "value": 1},
+    {"source": "Adulthood", "target": "Young Father", "value": 1},
+    {"source": "Adulthood", "target": "Divergent Paths", "value": 1},
+    {"source": "Adulthood", "target": "Loss", "value": 1},
+    {"source": "Adulthood", "target": "Nostalgia", "value": 1},
+
+    {"source": "Childhood", "target": "Peter Pan", "value": 1},
+    {"source": "Childhood", "target": "Youth", "value": 1},
+    {"source": "Childhood", "target": "Puppets", "value": 1},
+
+    {"source": "Peter Pan", "target": "Summer Friends", "value": 1},
+    {"source": "Peter Pan", "target": "Youth", "value": 1},
+
+    {"source": "Young Father", "target": "Smoke Break", "value": 1},
+    {"source": "Young Father", "target": "Loss", "value": 1},
+    {"source": "Young Father", "target": "Divergent Paths", "value": 1},
+    
+    {"source": "Loss", "target": "Youth", "value": 1},
+    {"source": "Loss", "target": "Nostalgia", "value": 1},
+    {"source": "Loss", "target": "Puppets", "value": 1},
+
+    {"source": "Youth", "target": "Puppets", "value": 1},
+    {"source": "Youth", "target": "Song about Friendship", "value": 1},
+    {"source": "Youth", "target": "Summer Friends", "value": 1},
+
+    {"source": "Nostalgia", "target": "Puppets", "value": 1},
+
+    {"source": "Summer Friends", "target": "Song about Friendship", "value": 1},
+    {"source": "Song about Friendship", "target": "Music Video", "value": 1},
+
+    {"source": "Puppets", "target": "Music Video", "value": 1},
+    {"source": "Music Video", "target": "Versions", "value": 1},
+
+    {"source": "Versions", "target": "Like 20 Versions", "value": 1},
+    {"source": "Versions", "target": "Regina Spektor", "value": 1},
+    {"source": "Versions", "target": "Derivative Works", "value": 1},
+
+    {"source": "Like 20 Versions", "target": "Regina Spektor", "value": 1},
+    {"source": "Like 20 Versions", "target": "Renting a whole studio", "value": 1},
+
+    {"source": "Regina Spektor", "target": "Derivative Works", "value": 1},
+    {"source": "Regina Spektor", "target": "Shawn Mendes", "value": 1},
+
+    {"source": "Derivative Works", "target": "Shawn Mendes", "value": 1},
+    {"source": "Derivative Works", "target": "Misterwives", "value": 1},
+    {"source": "Derivative Works", "target": "Average Joes", "value": 1},
+    {"source": "Derivative Works", "target": "Personal Life Experiences", "value": 1},
+
+    {"source": "Average Joes", "target": "Misterwives", "value": 1},
+    {"source": "Misterwives", "target": "Shawn Mendes", "value": 1},
+
+    {"source": "Renting a whole studio", "target": "LIDO", "value": 1},
+    {"source": "Renting a whole studio", "target": "The Social Experiment", "value": 1},
+
+    {"source": "LIDO", "target": "Strings", "value": 1},
+    {"source": "LIDO", "target": "Vocals", "value": 1},
+    {"source": "LIDO", "target": "The Social Experiment", "value": 1},
+    {"source": "LIDO", "target": "SaveMoney", "value": 1},
+
+    {"source": "Strings", "target": "Meena Cho", "value": 1},
+    {"source": "Strings", "target": "Erik Pidulski", "value": 1},
+    {"source": "Strings", "target": "Bridget Andes", "value": 1},
+
+    {"source": "The Social Experiment", "target": "Nico Segal", "value": 1},
+    {"source": "The Social Experiment", "target": "Peter Cottontale", "value": 1},
+    {"source": "The Social Experiment", "target": "Chance the Rapper", "value": 1},
+    {"source": "The Social Experiment", "target": "Nate Fox", "value": 1},
+
+    {"source": "Vocals", "target": "Chance the Rapper", "value": 1},
+    {"source": "Vocals", "target": "Sima Cunninham", "value": 1},
+    {"source": "Vocals", "target": "Eryn Allen Kane", "value": 1},
+    {"source": "Vocals", "target": "Francis Starlite", "value": 1},
+    {"source": "Vocals", "target": "Chicago Children's Choir", "value": 1},
+
+    {"source": "Chance the Rapper", "target": "Nate Fox", "value": 1},
+    {"source": "Chance the Rapper", "target": "Peter Cottontale", "value": 1},
+    {"source": "Chance the Rapper", "target": "Nico Segal", "value": 1},
+    {"source": "Chance the Rapper", "target": "Eryn Allen Kane", "value": 1},
+    {"source": "Chance the Rapper", "target": "Francis Starlite", "value": 1},
+    {"source": "Chance the Rapper", "target": "Sima Cunninham", "value": 1},
+    {"source": "Chance the Rapper", "target": "Liam Cunninham", "value": 1},
+
+    {"source": "Nate Fox", "target": "Peter Cottontale", "value": 1},
+    {"source": "Nate Fox", "target": "Nico Segal", "value": 1},
+ 
+    {"source": "Nico Segal", "target": "Peter Cottontale", "value": 1},
+    {"source": "Nico Segal", "target": "Eryn Allen Kane", "value": 1},
+    {"source": "Nico Segal", "target": "Prince Tribute", "value": 1},
+    {"source": "Nico Segal", "target": "Sima Cunninham", "value": 1},
+    {"source": "Nico Segal", "target": "Francis Starlite", "value": 1},
+
+    {"source": "Sima Cunninham", "target": "Prince Tribute", "value": 1},
+    {"source": "Sima Cunninham", "target": "Eryn Allen Kane", "value": 1},
+    {"source": "Sima Cunninham", "target": "OHMME", "value": 1},
+    {"source": "Sima Cunninham", "target": "Liam Cunninham", "value": 1},
+    {"source": "Sima Cunninham", "target": "Macie Stewart", "value": 1},
+
+    {"source": "Macie Stewart", "target": "OHMME", "value": 1},
+    {"source": "Macie Stewart", "target": "Liam Cunninham", "value": 1},
+    {"source": "Macie Stewart", "target": "Kids These Days", "value": 1},
+    {"source": "Macie Stewart", "target": "Marrow", "value": 1},
+
+    {"source": "Marrow", "target": "Liam Cunninham", "value": 1},
+    {"source": "Marrow", "target": "Kids These Days", "value": 1},
+    {"source": "Kids These Days", "target": "Liam Cunninham", "value": 1},
+
+    {"source": "Kids These Days", "target": "Vic Mensa", "value": 1},
+    {"source": "Vic Mensa", "target": "SaveMoney", "value": 1},
+    {"source": "SaveMoney", "target": "LIDO", "value": 1},
+
+    {"source": "Surf", "target": "Nate Fox", "value": 1},
+    {"source": "Surf", "target": "Peter Cottontale", "value": 1},
+    {"source": "Surf", "target": "Nico Segal", "value": 1},
+    {"source": "Surf", "target": "Eryn Allen Kane", "value": 1},
+    {"source": "Surf", "target": "Francis Starlite", "value": 1},
+    {"source": "Surf", "target": "Liam Cunninham", "value": 1},
+    {"source": "Surf", "target": "Chance the Rapper", "value": 1},
+    {"source": "Surf", "target": "The Social Experiment", "value": 1},
+
+    {"source": "Chicago Children's Choir", "target": "Josephine Lee", "value": 1},
+    {"source": "Chicago Children's Choir", "target": "Mitchell Owens", "value": 1},
+    {"source": "Chicago Children's Choir", "target": "Gospel Vibe", "value": 1},
+
+    {"source": "Josephine Lee", "target": "Mitchell Owens", "value": 1},
+
+    {"source": "Gospel Vibe", "target": "God", "value": 1},
+    {"source": "Gospel Vibe", "target": "Faith", "value": 1},
+
+    {"source": "God", "target": "Attitude", "value": 1},
+    {"source": "God", "target": "Faith", "value": 1},
+    {"source": "God", "target": "No Smoke, No Foolishness", "value": 1},
+    
+    {"source": "Attitude", "target": "Faith", "value": 1},
+    {"source": "Attitude", "target": "The College Dropout", "value": 1},
+    {"source": "Attitude", "target": "10 Day Suspension", "value": 1},
+    {"source": "Attitude", "target": "Sensitivity and Emotion", "value": 1},
+    {"source": "Attitude", "target": "Audience", "value": 1},
+
+    {"source": "No Smoke, No Foolishness", "target": "Daughter", "value": 1},
+    
+    {"source": "Jay-Z", "target": "Daughter", "value": 1},
+    {"source": "Jay-Z", "target": "Drugs", "value": 1},
+    {"source": "Jay-Z", "target": "Kanye West", "value": 1},
+    {"source": "Jay-Z", "target": "Shared Experiences", "value": 1},
+
+    {"source": "Drugs", "target": "Personal Life Experiences", "value": 1},
+    
+    {"source": "Shared Experiences", "target": "Personal Life Experiences", "value": 1},
+    {"source": "Shared Experiences", "target": "Dave Chappelle", "value": 1},
+    {"source": "Shared Experiences", "target": "Kanye West", "value": 1},
+    {"source": "Shared Experiences", "target": "Barack Obama", "value": 1},
+    {"source": "Shared Experiences", "target": "Daughter", "value": 1},
+
+    {"source": "Audience", "target": "Christian", "value": 1},
+    {"source": "Audience", "target": "Non Christian", "value": 1},
+    {"source": "Audience", "target": "Community Feedback", "value": 1},
+    {"source": "Audience", "target": "Sensitivity and Emotion", "value": 1},
+    {"source": "Audience", "target": "Differing Reactions", "value": 1},
+    {"source": "Audience", "target": "Hip-Hop's Religious Revival", "value": 1},
+    
+    {"source": "Christian", "target": "Hip-Hop's Religious Revival", "value": 1},
+    {"source": "Christian", "target": "Non Christian", "value": 1},
+
+    {"source": "Community Feedback", "target": "Differing Reactions", "value": 1},
+    {"source": "Community Feedback", "target": "Sensitivity and Emotion", "value": 1},
+
+    {"source": "Differing Reactions", "target": "Christian", "value": 1},
+    {"source": "Differing Reactions", "target": "Non Christian", "value": 1},
+
+    {"source": "Sensitivity and Emotion", "target": "Feels", "value": 1},
+    {"source": "Sensitivity and Emotion", "target": "10 Day Suspension", "value": 1},
+    {"source": "Sensitivity and Emotion", "target": "The College Dropout", "value": 1},
+    
+    {"source": "Feels", "target": "Happy", "value": 1},
+    {"source": "Feels", "target": "Sad", "value": 1},
+    {"source": "Feels", "target": "Bittersweet", "value": 1},
+    {"source": "Feels", "target": "Love", "value": 1},
+    {"source": "Feels", "target": "Cry", "value": 1},
+    {"source": "Feels", "target": "Chills", "value": 1},
+    {"source": "Feels", "target": "Emptiness", "value": 1},
+
+    {"source": "The College Dropout", "target": "10 Day Suspension", "value": 1},
+    {"source": "The College Dropout", "target": "Kanye West", "value": 1},
+
+    {"source": "Inspiration", "target": "Kanye West", "value": 1},
+    {"source": "Inspiration", "target": "Dave Chappelle", "value": 1},
+    {"source": "Inspiration", "target": "Barack Obama", "value": 1},
+
+    {"source": "Barack Obama", "target": "Rahim Emmanuel", "value": 1},
+    {"source": "Barack Obama", "target": "Father", "value": 1},
+    
+    {"source": "Rahim Emmanuel", "target": "Father", "value": 1},
+
+    {"source": "Father", "target": "Grandmother", "value": 1},
+    {"source": "Father", "target": "Great Grandmother", "value": 1},
+
+    {"source": "79th Street", "target": "Father", "value": 1},
+    {"source": "79th Street", "target": "Grandmother", "value": 1},
+    {"source": "79th Street", "target": "Great Grandmother", "value": 1},
+    {"source": "79th Street", "target": "Chicago", "value": 1},
+
+    {"source": "Grandmother", "target": "Religion", "value": 1},
+    {"source": "Grandmother", "target": "Curse", "value": 1},
+    {"source": "Grandmother", "target": "Great Grandmother", "value": 1},
+
+    {"source": "Great Grandmother", "target": "Martin Luther King Jr", "value": 1},
+    {"source": "Great Grandmother", "target": "Civil Rights Movement", "value": 1},
+    {"source": "Martin Luther King Jr", "target": "Civil Rights Movement", "value": 1},
+
+    {"source": "Religion", "target": "Curse", "value": 1},
+    {"source": "Religion", "target": "Gospel Music", "value": 1},
+
+    {"source": "Prismizer Effect", "target": "Gospel Music", "value": 1},
+
+    {"source": "Gospel Music", "target": "Kirk Franklin", "value": 1},
+    
+    {"source": "Kirk Franklin", "target": "Los Angeles", "value": 1},
+    
+    {"source": "Los Angeles", "target": "Drugs", "value": 1},
+
+    {"source": "Chicago", "target": "Present-Day Chicago", "value": 1},
+
+    {"source": "African American Heritige", "target": "Present-Day Chicago", "value": 1},
+    {"source": "African American Heritige", "target": "Chicago", "value": 1},
+    {"source": "African American Heritige", "target": "Chicago Rap", "value": 1},
+    {"source": "African American Heritige", "target": "New Orleans Movement", "value": 1},
+    {"source": "African American Heritige", "target": "R&B", "value": 1},
+    {"source": "African American Heritige", "target": "Hip-Hop", "value": 1},
+
+    {"source": "Present-Day Chicago", "target": "Poverty Porn", "value": 1},
+    {"source": "Present-Day Chicago", "target": "Freedom", "value": 1},
+
+    {"source": "Freedom", "target": "Value of Music", "value": 1},
+
+    {"source": "Activism", "target": "Value of Music", "value": 1},
+    {"source": "Activism", "target": "Poverty Porn", "value": 1},
+    {"source": "Activism", "target": "My Brother's Keeper", "value": 1},
+    {"source": "Activism", "target": "Shared Experiences", "value": 1},
+
+    {"source": "Shared Experiences", "target": "Divergent Paths", "value": 1},
+    {"source": "Shared Experiences", "target": "My Brother's Keeper", "value": 1},
+    {"source": "Shared Experiences", "target": "Feels", "value": 1},
+
+    {"source": "Divergent Paths", "target": "Smoke Break", "value": 1},
+    {"source": "Divergent Paths", "target": "Young Father", "value": 1},
+
+    {"source": "God", "target": "Gospel Music", "value": 1},
+    {"source": "God", "target": "Religion", "value": 1},
+    {"source": "God", "target": "Hip-Hop's Religious Revival", "value": 1},
+    {"source": "Religion", "target": "Hip-Hop's Religious Revival", "value": 1},
+
+    {"source": "The Social Experiment", "target": "Song about Friendship", "value": 1},
+    {"source": "The Social Experiment", "target": "Childhood", "value": 1},
+
+    {"source": "Childhood", "target": "Song about Friendship", "value": 1},
+    {"source": "Childhood", "target": "Nico Segal", "value": 1},
+    {"source": "Childhood", "target": "10 Day Suspension", "value": 1},
+
+    {"source": "Prismizer Effect", "target": "Summer Friends", "value": 1},
+    {"source": "Prismizer Effect", "target": "Francis Starlite", "value": 1},
+
+    {"source": "Puppets", "target": "Kanye West", "value": 1},
+    {"source": "Gospel Vibe", "target": "Kanye West", "value": 1},
+
+    {"source": "Renting a whole studio", "target": "Freedom", "value": 1},
+    {"source": "Renting a whole studio", "target": "No Smoke, No Foolishness", "value": 1},
+
+    {"source": "Barack Obama", "target": "Coloring Book", "value": 1},
+    {"source": "Barack Obama", "target": "My Brother's Keeper", "value": 1},
+    {"source": "Barack Obama", "target": "Activism", "value": 1},
+
+    {"source": "10 Day Suspension", "target": "Nico Segal", "value": 1},
+    {"source": "10 Day Suspension", "target": "Peter Cottontale", "value": 1},
+    {"source": "10 Day Suspension", "target": "Vic Mensa", "value": 1},
+
+    {"source": "Chicago Children's Choir", "target": "Civil Rights Movement", "value": 1},
+    {"source": "Chicago Children's Choir", "target": "Activism", "value": 1},
+
+    {"source": "Civil Rights Movement", "target": "Activism", "value": 1},
+
+    {"source": "Hip-Hop", "target": "Hip-Hop's Religious Revival", "value": 1},
+
+    {"source": "Los Angeles", "target": "Freedom", "value": 1},
+    {"source": "Los Angeles", "target": "Emptiness", "value": 1},
+
+    {"source": "Non Christian", "target": "Smoke Break", "value": 1},
+    {"source": "Non Christian", "target": "Drugs", "value": 1},
+
+    {"source": "Audience", "target": "Average Joes", "value": 1},
+    
+    {"source": "Chicago", "target": "Chicago Children's Choir", "value": 1},
+    {"source": "Chicago", "target": "Josephine Lee", "value": 1},
+    {"source": "Chicago", "target": "Mitchell Owens", "value": 1},
+    {"source": "Chicago", "target": "Macie Stewart", "value": 1},
+    {"source": "Chicago", "target": "Marrow", "value": 1},
+    {"source": "Chicago", "target": "Liam Cunninham", "value": 1},
+    {"source": "Chicago", "target": "Sima Cunninham", "value": 1},
+    {"source": "Chicago", "target": "OHMME", "value": 1},
+    {"source": "Chicago", "target": "Chance the Rapper", "value": 1},
+    {"source": "Chicago", "target": "The Social Experiment", "value": 1},
+    {"source": "Chicago", "target": "Barack Obama", "value": 1},
+    {"source": "Chicago", "target": "Rahim Emmanuel", "value": 1},
+    {"source": "Chicago", "target": "Nate Fox", "value": 1},
+    {"source": "Chicago", "target": "Nico Segal", "value": 1},
+    {"source": "Chicago", "target": "Kanye West", "value": 1},
+    {"source": "Chicago", "target": "Dave Chappelle", "value": 1},
+    {"source": "Chicago", "target": "SaveMoney", "value": 1},
+    {"source": "Chicago", "target": "Kids These Days", "value": 1},
+    {"source": "Chicago", "target": "Meena Cho", "value": 1},
+    {"source": "Chicago", "target": "Bridget Andes", "value": 1},
+    {"source": "Chicago", "target": "Erik Pidulski", "value": 1}
+
+
+  ]
+}

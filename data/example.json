@@ -1,0 +1,146 @@
+{
+    "name": "Thinking Out Loud",
+    "type": "work",
+    "children": [{
+        "name": "Record Label",
+        "children": [
+            {
+                "name": "2014 Asylum Records, a Warner Music Company"
+            }
+        ]
+    }, {
+        "name": "Album",
+        "children": [{
+            "name": "X",
+            "children": [
+                {
+                    "name": "01. One",
+                    "type": "work"
+                },{
+                    "name": "02. I'm a Mess",
+                    "type": "work"
+                },{
+                    "name": "03. Sing",
+                    "type": "work"
+                },{
+                    "name": "04. Don't",
+                    "type": "work"
+                },{
+                    "name": "05. Nina",
+                    "type": "work"
+                },{
+                    "name": "06. Photograph",
+                    "type": "work"
+                },{
+                    "name": "07. Bloodstream",
+                    "type": "work"
+                },{
+                    "name": "08. Tenerife Sea",
+                    "type": "work"
+                },{
+                    "name": "09. Runaway",
+                    "type": "work"
+                },{
+                    "name": "10. The Man",
+                    "type": "work"
+                },{
+                    "name": "11. Thinking Out Loud",
+                    "type": "work"
+                },{
+                    "name": "12. Afire Love",
+                    "type": "work"
+                }
+            ]
+        }]
+    }, {
+        "name": "Contributors",
+        "children": [
+            {
+                "name": "Performer",
+                "children": [
+                    {
+                        "name": "Ed Sheeran",
+                        "type": "person"
+                    }
+                ]
+            },
+            {
+                "name": "Composer",
+                "children": [{
+                    "name": "Amy Wadge",
+                    "type": "person"
+                }, {
+                    "name": "Ed Sheeran",
+                    "type": "person"
+                }]
+            },
+            {
+                "name": "Producer",
+                "children": [{
+                    "name": "Jake Gosling",
+                    "type": "person"
+                }]
+            }, 
+            {
+                "name": "Mastering Engineer",
+                "children": [{
+                    "name": "Stuart Hawkes",
+                    "type": "person"
+                }]
+            },
+            {
+                "name": "Engineer",
+                "children": [{
+                    "name": "Stuart Hawkes",
+                    "type": "person"
+                }, {
+                    "name": "William Hicks",
+                    "type": "person"
+                }, {
+                    "name": "Geoff Swan",
+                    "type": "person"
+                }]
+            },
+            {
+                "name": "Vocals",
+                "children": [{
+                    "name": "Ed Sheeran",
+                    "type": "person"
+                }]
+            }
+        ]
+    }, {
+        "name": "Derivative Works",
+        "children": [{
+                    "name": "Thinking Out Loud (Alex Adair Remix)",
+                    "type": "work"
+                }]
+    }, {
+        "name": "Derived Works"
+    }, {
+        "name": "Other Versions",
+        "children": [
+            {
+                "name": "Thinking Out Loud - Tyler Ward",
+                "type": "work"
+            }, {
+                "name": "Thinking Out Loud -  Jared Halley",
+                "type": "work"
+            }, {
+                "name": "Thinking Out Loud - Robin Morris and Kate Colston",
+                "type": "work"
+            }
+        ]
+    }, {
+        "name": "Stories",
+        "children": [
+            {
+                "name": "Sheeran wrote this love song about his girlfriend at the time, Athina Andrelos, who worked for English celebrity chef Jamie Oliver. The pair split up in early 2015 after dating for about a year."
+            }, {
+                "name": "The romantic ballad was the last song that Sheeran wrote for x. He penned it in his kitchen."
+
+            }, {
+                "name": "The heirs of Ed Townsend, Marvin Gaye's co-writer and co-producer on 'Let's Get It On,' sued Ed Sheeran for plagiarism claiming he lifted key parts of the 1973 soul classic."
+            }]
+    }]
+}
